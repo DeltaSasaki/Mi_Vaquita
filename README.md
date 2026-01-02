@@ -73,18 +73,20 @@ Este proyecto fue construido siguiendo el patrón **MVC** y las mejores práctic
 
 > *Nota: Las imágenes a continuación muestran el flujo real del sistema.*
 
-### 📱 Vista Móvil & Mapa
+### 📱 Vista Móvil (Cliente)
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Vista+Movil+Catalogo" alt="Mobile View" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Seleccion+Mapa" alt="Map View" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Carrito+Compras" alt="Cart View" width="30%" />
+  <img src="screenshots/movil_home.png" alt="Vista Home" width="30%" />
+  <img src="screenshots/movil_mapa.png" alt="Mapa Delivery" width="30%" />
+  <img src="screenshots/movil_detalle.png" alt="Detalle Producto" width="30%" />
 </div>
 
-### 🖥️ Panel Administrativo
+<br/>
+
+### 🖥️ Panel Administrativo (Gestión)
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Dashboard+Admin" alt="Admin Dashboard" width="100%" />
+  <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="100%" />
   <br/><br/>
-  <img src="https://via.placeholder.com/800x400?text=Detalle+Pedido+Admin" alt="Order Detail" width="100%" />
+  <img src="screenshots/admin_pedido.png" alt="Detalle de Pedido" width="100%" />
 </div>
 
 ---

@@ -143,5 +143,5 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 ---
 <div align="center">
-  Desarrollado con ❤️ para impulsar el comercio local.
+  Desarrollado con esfuerzo para impulsar el aprendizaje continuo.
 </div>
